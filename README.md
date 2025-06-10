@@ -1,7 +1,7 @@
 
 
 
-### Miguel Vargas Ferreira
+### Miguel Vargas Ferreira ✨👾
 
 ### Linguagens
 
