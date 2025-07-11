@@ -63,4 +63,4 @@
 
 </p>
 
-
+<img src="https://raw.githubusercontent.com/MikvDev/MikvDev/output/snake.svg" alt="Snake animation" />
