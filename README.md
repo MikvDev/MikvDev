@@ -1,6 +1,10 @@
 # 💫 About Me:
 ### Miguel Vargas Ferreira 🌱✨
 Hi! I'm a programing student
+<p align="right">  
+  <img src="tumblr_b2081c011105dc912842c42ae71e1eff_1f165362_250.gif" alt="GIF exemplo" width="150"/> 
+</p>
+
 
 
 ## 🌐 Socials:
