@@ -48,11 +48,10 @@
 />
 
 <p align="right">
-  <img src="URL_DO_SEU_GIF.gif" alt="Descrição do GIF" width="150"/>
+  <img src="tumblr_b2081c011105dc912842c42ae71e1eff_1f165362_250.gif" alt="Descrição do GIF" width="150"/>
 </p>
-<br/>
-<br/>
-<img src="https://raw.githubusercontent.com/MikvDev/MikvDev/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
