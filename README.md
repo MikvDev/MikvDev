@@ -47,7 +47,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+<p align="right">
+  <img src="URL_DO_SEU_GIF.gif" alt="Descrição do GIF" width="150"/>
+</p>
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/MikvDev/MikvDev/output/snake.svg" alt="Snake animation" />
