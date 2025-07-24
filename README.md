@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Miguel Vargas Ferreira
+### Miguel Vargas Ferreira 🌱✨
 Hi! I'm a programing student
 
 
