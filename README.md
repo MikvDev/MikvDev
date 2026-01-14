@@ -7,7 +7,7 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
 -  **Foco Técnico:** Estudando **Java**, **Banco de Dados** e **Design**.
 -  **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
 -  **Projeto Atual:** Desenvolvendo uma aplicação focada no aprendizado e acessibilidade para crianças com **TEA** (Transtorno do Espectro Autista).
--  **link do projeto :** [ABCAPY] () - 
+-  **link do projeto :** [ABCAPY] (https://github.com/MikvDev/TDS251T/tree/main/Projeto%20integrador%20-%20%E2%82%B6) - 
  ---
 
 ###  Tech Stack & Ferramentas
