@@ -1,6 +1,6 @@
 ### 👋 Sobre Mim
 
-Me chamo **Miguel Vargas Ferreira**.
+Me chamo **Miguel Vargas Ferreira** 🌱✨.
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade.
 
 - 💻 **Foco Técnico:** Estudando **Java** e **Banco de Dados**.
