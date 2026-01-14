@@ -4,7 +4,7 @@ Me chamo **Miguel Vargas Ferreira** 🌱✨
 
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade.
 
--  **Foco Técnico:** Estudando **Java** , **Banco de Dados** e **Design**.
+-  **Foco Técnico:** Estudando **Java**, **Banco de Dados** e **Design**.
 -  **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
 -  **Projeto Atual:** Desenvolvendo uma aplicação focada no aprendizado e acessibilidade para crianças com **TEA** (Transtorno do Espectro Autista).
 
