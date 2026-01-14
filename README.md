@@ -3,13 +3,13 @@
 Me chamo **Miguel Vargas Ferreira** 🌱✨.
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade.
 
-- 💻 **Foco Técnico:** Estudando **Java** e **Banco de Dados**.
-- 🎨 **Interesses:** Apaixonado por **UX/UI** e **Design Inclusivo**.
+- 💻 **Foco Técnico:** Estudando **Java** ,**Banco de Dados** e **Design**.
+- 🎨 **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
 - 🚀 **Projeto Atual:** Desenvolvendo uma aplicação focada no aprendizado e acessibilidade para crianças com **TEA** (Transtorno do Espectro Autista).
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+###  Tech Stack & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -21,9 +21,6 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
 </div>
 
 <br>
-## Redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mig_vargas_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelvargasferreira39@gmail.com) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MikvDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
