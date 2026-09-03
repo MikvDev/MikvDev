@@ -1,6 +1,7 @@
-### 👋 Sobre Mim
+### Sobre Mim
 
 Me chamo **Miguel Vargas Ferreira** 🌱✨
+
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade.
 
 - 🎓 **Formação:** Graduando em **Ciência da Computação** na Unisinos e cursando o **Técnico em Desenvolvimento de Sistemas** no Senac.
