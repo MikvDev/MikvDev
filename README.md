@@ -8,5 +8,5 @@ Me chamo **Miguel Vargas Ferreira**
 
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade. 
 
-- 🎓 **Formação:** Graduando em **Ciência da Computação**, **Técnico em Desenvolvimento de Sistemas** e residente em TIC 55 Brisa/Unisinos.
+- 🎓 **Formação:** Graduando em **Ciência da Computação**, **Técnico em Desenvolvimento de Sistemas** e **Residente em TIC 55 Brisa/Unisinos**.
 -  **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
