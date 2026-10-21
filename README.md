@@ -2,6 +2,7 @@
 <img width="500" height="150" alt="your_cool_intro (1)" src="https://github.com/user-attachments/assets/253ea496-a9ec-4280-99bc-1e266bcf012e" />
 ![Java](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Figma](https://shields.io)
 
+
 ### Sobre Mim 
 
 
