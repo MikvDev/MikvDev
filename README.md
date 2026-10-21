@@ -1,4 +1,4 @@
-<img width="800" height="150" alt="your_cool_intro" src="https://github.com/user-attachments/assets/96fa17f5-1405-4226-8b4c-3a8464c72b6f" />
+<img width="500" height="150" alt="your_cool_intro (1)" src="https://github.com/user-attachments/assets/253ea496-a9ec-4280-99bc-1e266bcf012e" />
 
 ### Sobre Mim <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp;
 
