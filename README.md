@@ -1,6 +1,6 @@
-### Sobre Mim
+### Sobre Mim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Me chamo **Miguel Vargas Ferreira** 🌱✨  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Me chamo **Miguel Vargas Ferreira** 🌱✨  
 
 Sou estudante de Programação focado em criar soluções que unem funcionalidade e acessibilidade.
 
