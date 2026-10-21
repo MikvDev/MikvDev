@@ -10,5 +10,3 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
 -  **Residência:** Participando do programa de residência tecnológica **TIC 55 / Brisa** em parceria com a Unisinos.
 -  **Projeto Atual:** Desenvolvendo no curso técnico o **[ABCAPY](https://github.com/MikvDev/ABCapyPI)**, uma aplicação focada no aprendizado e acessibilidade para crianças com **TEA** 
 -  **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
- 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
