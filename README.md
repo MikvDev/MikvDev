@@ -32,3 +32,8 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
 
 - 🎓 **Formação:** Graduando em **Ciência da Computação**, **Técnico em Desenvolvimento de Sistemas** e **Residente em TIC 55 (Unisinos)**.
 -  **Interesses:** Apaixonado por **UX/UI** e **Desenvolvimento web**.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikvDev&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikvDev&layout=compact&theme=tokyonight" alt="Linguagens" />
+</p>
