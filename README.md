@@ -1,3 +1,4 @@
+<img width="200" height="241" alt="tumblr_meqswsJZPL1qkcwzfo1_1280" src="https://github.com/user-attachments/assets/b599a577-d0dd-4c28-8bb4-4bfa034639b8" />
 <div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp;
@@ -13,7 +14,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
-<img width="141" height="141" alt="image" src="https://github.com/user-attachments/assets/639aa28d-3c8e-4116-8dfd-fb90a96ac801" />
 
 </div>
 
