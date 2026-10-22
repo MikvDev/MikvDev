@@ -28,7 +28,8 @@
 
 
 
-### Sobre Mim 
+### Sobre Mim <img width="45" height="45" alt="shinjifinished" src="https://github.com/user-attachments/assets/623ffa2f-0886-4ca2-85e8-5c5a632d7f65" />
+
 
 
 Me chamo **Miguel Vargas Ferreira** 
