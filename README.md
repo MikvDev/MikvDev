@@ -37,7 +37,3 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciencia+da+Computacao;Desenvolvedor+Frontend;Focado+em+UX%2FUI" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikvDev&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikvDev&layout=compact&theme=tokyonight" alt="Linguagens" />
-</p>
