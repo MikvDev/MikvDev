@@ -2,6 +2,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp;
 <img width="800" height="150" alt="your_cool_intro (1)" src="https://github.com/user-attachments/assets/253ea496-a9ec-4280-99bc-1e266bcf012e" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MikvDev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus" />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
