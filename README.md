@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=MikvDev&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus" />
+<img src="https://streak-stats.demolab.com/?user=MikvDev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </div>
 
 
