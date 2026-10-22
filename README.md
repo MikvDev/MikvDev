@@ -13,7 +13,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
-<img src="https://streak-stats.demolab.com/?user=MikvDev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img width="141" height="141" alt="image" src="https://github.com/user-attachments/assets/639aa28d-3c8e-4116-8dfd-fb90a96ac801" />
+
 </div>
 
 
