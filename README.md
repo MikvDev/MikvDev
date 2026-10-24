@@ -41,7 +41,7 @@ Sou estudante de Programação focado em criar soluções que unem funcionalidad
 
 
  
-# <img width="45" height="45" alt="prev__r1131243761" src="https://github.com/user-attachments/assets/8600c338-c4bf-429e-85cd-bf9126a47c0c" /> Conquistas
+# Conquistas
 
   <sub>Pixel art do Shinji Ikari por <a href="https://www.pixeljoint.com/pixelart/134284.htm"><b>upcharlie</b></a> no <a href="https://www.pixeljoint.com/pixelart/134284.htm">PixelJoint</a></sub>
 
